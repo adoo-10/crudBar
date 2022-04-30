@@ -491,11 +491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adoX1\\Documents\\codeVS2022\\CRUDBAR\\capaPresentacion\\capaPresentacion.csproj",
+      "projectUniqueName": "C:\\Users\\adoX1\\Documents\\GitHub\\crudBar\\CRUDBAR\\capaPresentacion\\capaPresentacion.csproj",
       "projectName": "capaPresentacion",
-      "projectPath": "C:\\Users\\adoX1\\Documents\\codeVS2022\\CRUDBAR\\capaPresentacion\\capaPresentacion.csproj",
+      "projectPath": "C:\\Users\\adoX1\\Documents\\GitHub\\crudBar\\CRUDBAR\\capaPresentacion\\capaPresentacion.csproj",
       "packagesPath": "C:\\Users\\adoX1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adoX1\\Documents\\codeVS2022\\CRUDBAR\\capaPresentacion\\obj\\",
+      "outputPath": "C:\\Users\\adoX1\\Documents\\GitHub\\crudBar\\CRUDBAR\\capaPresentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adoX1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -512,8 +512,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\adoX1\\Documents\\codeVS2022\\CRUDBAR\\capaNegocio\\capaNegocio.csproj": {
-              "projectPath": "C:\\Users\\adoX1\\Documents\\codeVS2022\\CRUDBAR\\capaNegocio\\capaNegocio.csproj"
+            "C:\\Users\\adoX1\\Documents\\GitHub\\crudBar\\CRUDBAR\\capaNegocio\\capaNegocio.csproj": {
+              "projectPath": "C:\\Users\\adoX1\\Documents\\GitHub\\crudBar\\CRUDBAR\\capaNegocio\\capaNegocio.csproj"
             }
           }
         }

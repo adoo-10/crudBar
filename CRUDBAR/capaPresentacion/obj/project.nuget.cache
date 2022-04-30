@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MHtcPcfJcBthQoX2pHhpR3JmhNb8X30VTBjoZmEKW/V/X0hsFEWURCHKTH1j6gbfRFBKjSfz9ibv/8ET/ZiAgA==",
+  "dgSpecHash": "gw0puYAyc7XpkXZK5xnHkNFiPNYq/eMPYEjuO2kbEcGY23Wdgzd0xp3XXMpm78dKZn5szMgzJhz8P3QtnrHEnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adoX1\\Documents\\codeVS2022\\CRUDBAR\\capaPresentacion\\capaPresentacion.csproj",
+  "projectFilePath": "C:\\Users\\adoX1\\Documents\\GitHub\\crudBar\\CRUDBAR\\capaPresentacion\\capaPresentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adoX1\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\adoX1\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

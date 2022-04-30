@@ -9,3 +9,14 @@ C:\Users\adoX1\Documents\codeVS2022\CRUDBAR\capaNegocio\obj\Debug\capaNegocio.dl
 C:\Users\adoX1\Documents\codeVS2022\CRUDBAR\capaNegocio\obj\Debug\capaNegocio.pdb
 C:\Users\adoX1\Documents\codeVS2022\CRUDBAR\capaNegocio\bin\Debug\System.Data.SqlClient.dll
 C:\Users\adoX1\Documents\codeVS2022\CRUDBAR\capaNegocio\bin\Debug\System.Data.SqlClient.xml
+C:\Users\adoX1\Documents\GitHub\crudBar\CRUDBAR\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\adoX1\Documents\GitHub\crudBar\CRUDBAR\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\adoX1\Documents\GitHub\crudBar\CRUDBAR\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\adoX1\Documents\GitHub\crudBar\CRUDBAR\capaNegocio\bin\Debug\System.Data.SqlClient.dll
+C:\Users\adoX1\Documents\GitHub\crudBar\CRUDBAR\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\adoX1\Documents\GitHub\crudBar\CRUDBAR\capaNegocio\bin\Debug\System.Data.SqlClient.xml
+C:\Users\adoX1\Documents\GitHub\crudBar\CRUDBAR\capaNegocio\obj\Debug\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\adoX1\Documents\GitHub\crudBar\CRUDBAR\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\adoX1\Documents\GitHub\crudBar\CRUDBAR\capaNegocio\obj\Debug\capaNegocio.csproj.CopyComplete
+C:\Users\adoX1\Documents\GitHub\crudBar\CRUDBAR\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\adoX1\Documents\GitHub\crudBar\CRUDBAR\capaNegocio\obj\Debug\capaNegocio.pdb

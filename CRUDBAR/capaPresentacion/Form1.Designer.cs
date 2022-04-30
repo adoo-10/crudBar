@@ -49,12 +49,13 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.Control;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(529, 30);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 62;
             this.dataGridView1.RowTemplate.Height = 33;
-            this.dataGridView1.Size = new System.Drawing.Size(653, 497);
+            this.dataGridView1.Size = new System.Drawing.Size(712, 497);
             this.dataGridView1.TabIndex = 0;
             // 
             // txtProd
@@ -104,53 +105,59 @@
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label2.Location = new System.Drawing.Point(97, 57);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(94, 25);
+            this.label2.Size = new System.Drawing.Size(94, 23);
             this.label2.TabIndex = 7;
-            this.label2.Text = "productos";
+            this.label2.Text = "Productos";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label3.Location = new System.Drawing.Point(97, 304);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(66, 25);
+            this.label3.Size = new System.Drawing.Size(68, 23);
             this.label3.TabIndex = 8;
             this.label3.Text = "Estado";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label4.Location = new System.Drawing.Point(97, 241);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(95, 25);
+            this.label4.Size = new System.Drawing.Size(105, 23);
             this.label4.TabIndex = 9;
             this.label4.Text = "Existencias";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label5.Location = new System.Drawing.Point(97, 176);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(60, 25);
+            this.label5.Size = new System.Drawing.Size(64, 23);
             this.label5.TabIndex = 10;
             this.label5.Text = "Precio";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label6.Location = new System.Drawing.Point(97, 116);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(104, 25);
+            this.label6.Size = new System.Drawing.Size(108, 23);
             this.label6.TabIndex = 11;
             this.label6.Text = "Descripcion";
             // 
             // BtnGuardar
             // 
+            this.BtnGuardar.Font = new System.Drawing.Font("Times New Roman", 10F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.BtnGuardar.Location = new System.Drawing.Point(103, 378);
             this.BtnGuardar.Name = "BtnGuardar";
-            this.BtnGuardar.Size = new System.Drawing.Size(112, 34);
+            this.BtnGuardar.Size = new System.Drawing.Size(130, 44);
             this.BtnGuardar.TabIndex = 12;
             this.BtnGuardar.Text = "Nuevo";
             this.BtnGuardar.UseVisualStyleBackColor = true;
@@ -158,9 +165,10 @@
             // 
             // BtnBorrar
             // 
+            this.BtnBorrar.Font = new System.Drawing.Font("Times New Roman", 10F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.BtnBorrar.Location = new System.Drawing.Point(333, 465);
             this.BtnBorrar.Name = "BtnBorrar";
-            this.BtnBorrar.Size = new System.Drawing.Size(112, 34);
+            this.BtnBorrar.Size = new System.Drawing.Size(124, 45);
             this.BtnBorrar.TabIndex = 13;
             this.BtnBorrar.Text = "Cerrar";
             this.BtnBorrar.UseVisualStyleBackColor = true;
@@ -168,9 +176,10 @@
             // 
             // BtnEliminar
             // 
+            this.BtnEliminar.Font = new System.Drawing.Font("Times New Roman", 10F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.BtnEliminar.Location = new System.Drawing.Point(103, 465);
             this.BtnEliminar.Name = "BtnEliminar";
-            this.BtnEliminar.Size = new System.Drawing.Size(112, 34);
+            this.BtnEliminar.Size = new System.Drawing.Size(130, 45);
             this.BtnEliminar.TabIndex = 14;
             this.BtnEliminar.Text = "Borrar";
             this.BtnEliminar.UseVisualStyleBackColor = true;
@@ -178,9 +187,10 @@
             // 
             // BtnEditar
             // 
+            this.BtnEditar.Font = new System.Drawing.Font("Times New Roman", 10F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.BtnEditar.Location = new System.Drawing.Point(333, 378);
             this.BtnEditar.Name = "BtnEditar";
-            this.BtnEditar.Size = new System.Drawing.Size(112, 34);
+            this.BtnEditar.Size = new System.Drawing.Size(124, 44);
             this.BtnEditar.TabIndex = 15;
             this.BtnEditar.Text = "Actualizar";
             this.BtnEditar.UseVisualStyleBackColor = true;
@@ -190,7 +200,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1194, 574);
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.ClientSize = new System.Drawing.Size(1290, 574);
             this.Controls.Add(this.BtnEditar);
             this.Controls.Add(this.BtnEliminar);
             this.Controls.Add(this.BtnBorrar);
