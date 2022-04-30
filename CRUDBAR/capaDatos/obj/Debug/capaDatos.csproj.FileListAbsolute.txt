@@ -1,0 +1,9 @@
+C:\Users\adoX1\Documents\codeVS2022\CRUDBAR\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\adoX1\Documents\codeVS2022\CRUDBAR\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\adoX1\Documents\codeVS2022\CRUDBAR\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\adoX1\Documents\codeVS2022\CRUDBAR\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\adoX1\Documents\codeVS2022\CRUDBAR\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\adoX1\Documents\codeVS2022\CRUDBAR\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\adoX1\Documents\codeVS2022\CRUDBAR\capaDatos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\adoX1\Documents\codeVS2022\CRUDBAR\capaDatos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\adoX1\Documents\codeVS2022\CRUDBAR\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
